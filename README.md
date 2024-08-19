@@ -1,4 +1,4 @@
-# CS178_Fashion-Mnist_Project
+# Fashion-Mnist Analysis
 This project focuses on the comprehensive analysis of the Fashion MNIST dataset using a variety of classification techniques. Our goal is to explore and compare the effectiveness of different machine learning models in classifying fashion images.
 
 # Classification Techniques
